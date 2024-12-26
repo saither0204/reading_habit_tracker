@@ -1,6 +1,6 @@
-# reading_habit_tracker
+# Reading Habit Tracker
 
-A new Flutter project.
+A new Flutter project. A Chance of Proving Myself.
 
 ## Getting Started
 
