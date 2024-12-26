@@ -1,8 +1,12 @@
+// ignore_for_file: library_private_types_in_public_api, use_build_context_synchronously
+
 import 'package:flutter/material.dart';
 import '../models/book.dart';
 import '../services/storage_service.dart';
 
 class AddBookScreen extends StatefulWidget {
+  const AddBookScreen({super.key});
+
   @override
   _AddBookScreenState createState() => _AddBookScreenState();
 }
